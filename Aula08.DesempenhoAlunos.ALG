@@ -14,7 +14,7 @@ Inicio
       Leia (N2)
       M <- (N1 + N2) / 2
       Escreval("----------------------")
-      Escreval("Média: ",M)
+      Escreval("Mï¿½dia: ",M)
       Se (M < 5) entao
         Escreval ("Performance: F")
       senao
